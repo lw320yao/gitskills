@@ -8,3 +8,4 @@ Git pull first
 git add -- git commit -- git push
 Creating a new branch is quick AND simple.
 Creating a new branch is quick & simple.
+Git master commit 2
